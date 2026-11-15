@@ -1,0 +1,6 @@
+{
+  "name": "Din Kültürü 5 · Etkileşimli Öğrenme Atölyesi",
+  "description": "MEB 5. sınıf Din Kültürü ve Ahlak Bilgisi müfredatına uygun konu özetleri, 3 boyutlu kavram kartları, yapay zeka destekli bilgi yarışması ve akıllı rehber.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
